@@ -1,4 +1,4 @@
-# Personal Finance Management Project - Frontend 💰 📊
+# Personal Finance Management Project
 
 ## _Project Description_ 📚
 
