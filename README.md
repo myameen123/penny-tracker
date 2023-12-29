@@ -2,7 +2,7 @@
 
 ## _Project Description_ 📚
 
-The Personal Finance Management Project is an application created using React and Vite technologies. The application allows users to efficiently manage their finances, including adding, editing, and deleting transactions, as well as displaying them in a diagram divided into categories. The project also includes registration, login, and authentication features using the Google API. User data is securely stored in a MongoDB database.
+The Personal Finance Management a Software Construction semester project, created using React and Vite technologies. The application allows users to efficiently manage their finances, including adding, editing, and deleting transactions, as well as displaying them in a diagram divided into categories. The project also includes registration, login, and authentication features using the Google API. User data is securely stored in a MongoDB database.
 
 ## _Key Features_ 📋
 
@@ -64,27 +64,3 @@ The project can be configured via environment variables in the .env file.
 
 ![image](https://github.com/Pawel-Eliszewski/WalletApp-frontend/assets/113374423/572455bf-0d70-4e33-88c3-9b189a35bd94)
 
-## _Authors_ 👨‍💻
-
-### Project Team - Team Lorem Ipsum
-
-We are a cohesive team of full-stack developers, graduates of GoIT School, named Team Lorem Ipsum. We specialize in creating modern web solutions using the latest technologies. We have achieved a high level of knowledge and experience, enabling us to help our clients succeed in their businesses.
-
-### What We Do?
-
-We develop responsive websites and advanced web applications using cutting-edge technologies. Our documentation is clear, aesthetic, and readable for everyone.
-
-### Why It Matters to Us?
-
-Good documentation is the key to better relationships, products, and companies. When documentation is easy to create and maintain, developers can work more efficiently, and customers can find the information they need without having to call for support.
-
-### Where Are We? 📊
-
-- [Paweł Eliszewski - Team Lead](https://github.com/Pawel-Eliszewski)
-- [Mykola Kovalskyi - Scrum Master](https://github.com/mykolakovalskyi)
-- [Sylwia Książek - Developer](https://github.com/SylviaStachera)
-- [Juliusz Kamiński - Developer](https://github.com/jkamin61)
-- [Mateuszk Kutarba - Developer](https://github.com/Guma96)
-- [Michał Backi - Developer](https://github.com/CragHerk)
-- [Robert Kościuszko - Developer](https://github.com/robertkosciuszko)
-- [Sebastian Zasadni - Developer](https://github.com/SebastianZasadni)
